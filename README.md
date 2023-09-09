@@ -29,6 +29,23 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ### Ответ:
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.1.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.2.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.3.1.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.3.2.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.4.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.5.1.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.5.2.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.6.png)
+
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_1.8.png)
 
 ```
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY '123456';
@@ -93,7 +110,9 @@ nicer_but_slower_film_list |         -
 
 ### Ответ:
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_3.1.png)
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_12-02/blob/main/12-02_3.2.png)
 
 ```
 SHOW GRANTS FOR 'sys_temp'@'localhost';
