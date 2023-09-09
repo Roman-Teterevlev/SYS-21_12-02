@@ -94,3 +94,12 @@ nicer_but_slower_film_list |         -
 ### Ответ:
 
 
+
+```
+SHOW GRANTS FOR 'sys_temp'@'localhost';
+
+REVOKE INSERT, UPDATE, DELETE ON *.* FROM 'sys_temp'@'localhost';
+
+SHOW GRANTS FOR 'sys_temp'@'localhost';
+```
+
